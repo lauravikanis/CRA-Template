@@ -1,7 +1,3 @@
-![Node.js CI](https://github.com/lauravikanis/start_template/workflows/Node.js%20CI/badge.svg)
-
-# start_template
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
